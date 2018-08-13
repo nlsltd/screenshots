@@ -1,0 +1,186 @@
+{
+    "url": "http://localhost:3000",
+    "saveDir": "png",
+    "pngPrefix": "screenshot_",
+    "viewPort": {
+        "width": 1920,
+        "height": 1080
+    },
+    "styleOverride": {
+        "path": "./override.css"
+    },
+    "clicks": [
+        {
+            "skip": false
+        },
+        ".home-nav .inmark",
+        {
+            "node": ".btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(2)"
+        },
+        {
+            "node": ".btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(3)"
+        },
+        {
+            "node": ".tab__controls > .btn:nth-child(2)"
+        },
+        {
+            "node": ".page__nav > li:nth-child(3)"
+        },
+        {
+            "node": ".page__body > .btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(4)",
+            "skip": true
+        },
+        ".home-nav .instage",
+        {
+            "node": ".btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(2)"
+        },
+        {
+            "node": ".page__nav > li:nth-child(3)"
+        },
+        {
+            "node": ".tab__controls > .btn:nth-child(2)"
+        },
+        {
+            "node": ".page__body > .btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(4)"
+        },
+        {
+            "node": ".btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(5)",
+            "skip": true
+        },
+        ".home-nav .senscis",
+        {
+            "node": ".btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(2)"
+        },
+        {
+            "node": ".page__content > .btn",
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(3)"
+        },
+        {
+            "node": ".tab__controls > .btn:nth-child(2)"
+        },
+        {
+            "node": ".page__body > .btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(4)",
+            "skip": true
+        },
+        ".home-nav .inbuild",
+        {
+            "node": ".btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(2)"
+        },
+        {
+            "node": ".page__content .btn",
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(3)"
+        },
+        {
+            "node": ".tab__controls > .btn:nth-child(2)"
+        },
+        {
+            "node": ".page__body > .btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        },
+        {
+            "node": ".page__nav > li:nth-child(4)",
+            "skip": true
+        },
+        {
+            "node": ".page__body > .btn",
+            "wait": 600
+        },
+        {
+            "node": ".popup__close",
+            "wait": 600,
+            "skip": true
+        }
+    ]
+}
